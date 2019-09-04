@@ -1,0 +1,4 @@
+2019-02-25 16:54:48.739 [main] INFO  com.mvc.custom.test.Test.main() Line: 12 - 开始测试
+2019-02-25 16:54:48.761 [main] ERROR com.mvc.custom.test.Test.main() Line: 12 - 错误信息
+java.lang.ArithmeticException: / by zero
+	at com.mvc.custom.test.Test.main(Test.java:14) [classes/:?]

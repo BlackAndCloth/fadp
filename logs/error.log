@@ -1,0 +1,3 @@
+2019.02.25 at 16:54:48 GMT+08:00 ERROR com.mvc.custom.test.Test.main() Line: 12 47 error - ´íÎóĞÅÏ¢ java.lang.ArithmeticException: / by zero
+	at com.mvc.custom.test.Test.main(Test.java:14) [classes/:?]
+
